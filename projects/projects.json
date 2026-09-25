@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Student Management System",
+    "description": "A Student Management System that allows students to manage their academic records, schedules, and communicate with their teachers.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Web Development"
+  },
+  {
+    "title": "Spam Detection System",
+    "description": "A Spam Detection System using Bi-directional LSTM technology to filter out unwanted emails.",
+    "gitHub_link": "https://github.com/sortira/sms-spam",
+    "live_link": "https://sms-spam-11dm.onrender.com/predict",
+    "domain": "Machine Learning"
+  },
+  {
+    "title": "AI powered Code Editor",
+    "description": "A Realtime Code Editor and LLM-powered code reviewing tool that enhances coding efficiency.",
+    "gitHub_link": "#",
+    "live_link": "#",
+    "domain": "Artificial Intelligence"
+  },
+  {
+    "title": "To-Do Application",
+    "description": "TODO Application that allows users to manage tasks with features like reminders and priority settings.",
+    "gitHub_link": "https://github.com/Coder-by-Passion-Arka/To-Do-Application",
+    "live_link": "https://fastidious-gelato-bed9a7.netlify.app/",
+    "domain": "Web Development"
+  },
+  {
+    "title": "Tic-Tac-Toe Game",
+    "description": "Simple but beautiful Tic-Tac-Toe game with a user-friendly interface and smooth gameplay.",
+    "gitHub_link": "https://github.com/Coder-by-Passion-Arka/Tic-Tac-Toe-Game",
+    "live_link": "https://resilient-klepon-be8057.netlify.app/",
+    "domain": "Game Development"
+  }
+]
