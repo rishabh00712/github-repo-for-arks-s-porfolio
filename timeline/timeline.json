@@ -46,5 +46,13 @@
     "description": "Completed my Secondary Education from Vivekananda Mission School, Joka. Achieved a score of 94% in the board examinations. Participated in various extracurricular activities including debates and science fairs. Had a vibrant school life with a focus on academics and personal development.",
     "icon": "School",
     "category": "school"
+  },
+  {
+    "degree": "Secondary Degree 3",
+    "institution": "Vivekananda Mission School, Joka",
+    "duration": "2020-2022",
+    "description": "Completed my Secondary Education from Vivekananda Mission School, Joka. Achieved a score of 94% in the board examinations. Participated in various extracurricular activities including debates and science fairs. Had a vibrant school life with a focus on academics and personal development.",
+    "icon": "School",
+    "category": "college"
   }
 ]
