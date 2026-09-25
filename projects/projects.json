@@ -33,5 +33,82 @@
     "gitHub_link": "https://github.com/Coder-by-Passion-Arka/Tic-Tac-Toe-Game",
     "live_link": "https://resilient-klepon-be8057.netlify.app/",
     "domain": "Game Development"
+  },
+  {
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce platform that allows users to browse products, manage their cart, place orders, and track purchases.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "E-Commerce"
+  },
+  {
+    "title": "Face Recognition Attendance System",
+    "description": "An automated attendance system that uses facial recognition technology to identify students and record their attendance.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Computer Vision"
+  },
+  {
+    "title": "Weather Forecast Application",
+    "description": "A responsive weather application that provides real-time weather information, forecasts, temperature, and other environmental details.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "API Integration"
+  },
+  {
+    "title": "Expense Tracker",
+    "description": "A personal finance application that helps users track income, expenses, spending categories, and monthly budgets.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "FinTech"
+  },
+  {
+    "title": "Movie Recommendation System",
+    "description": "A recommendation system that suggests movies to users based on their preferences and previously watched content.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Data Science"
+  },
+  {
+    "title": "Real-Time Chat Application",
+    "description": "A real-time messaging application that allows users to communicate instantly through private and group conversations.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Real-Time Applications"
+  },
+  {
+    "title": "Online Quiz Platform",
+    "description": "An interactive quiz platform where users can participate in quizzes, view scores, and track their performance across different topics.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "EdTech"
+  },
+  {
+    "title": "Image Classification System",
+    "description": "A deep learning application that classifies images into predefined categories using a trained convolutional neural network.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Deep Learning"
+  },
+  {
+    "title": "URL Shortener",
+    "description": "A web application that converts long URLs into short, shareable links and provides basic link usage statistics.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Backend Development"
+  },
+  {
+    "title": "AI Chatbot",
+    "description": "An AI-powered chatbot that understands user queries and provides conversational responses using natural language processing.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Natural Language Processing"
+  },
+  {
+    "title": "2048 Game",
+    "description": "A browser-based implementation of the popular 2048 puzzle game with smooth controls, score tracking, and a responsive interface.",
+    "gitHub_link": "",
+    "live_link": "",
+    "domain": "Game Development"
   }
 ]
