@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Machine Learning Certification Course",
+    "organization": "NPTEL & Indraprastha Institute of Information Technology, Delhi",
+    "year": "2024",
+    "description": "This Foundational Course on Machine Learning introduced me to the fundamentals of Machine Learning, covering key concepts such as Supervised Learning, Unsupervised Learning, and Reinforcement Learning. I learned about various machine learning algorithms, from Linear Regression to Support Vector Machines and also Convolutional Neural Networks.",
+    "icon": "Briefcase",
+    "link": "https://drive.google.com/file/d/1-cPQtUgOJ8iDpMAtbl930zuJNTFb2muH/view?usp=sharing"
+  },
+  {
+    "title": "Data Analytics with Python Certification",
+    "organization": "Indian Institute of Technology Roorkee",
+    "year": "2025",
+    "description": "Completed the Data Analytics with Python Certification course which included data manipulation, data visualization, and statistical analysis. After taking this course, I have learned to analyze and interpret data effectively to make informed data-driven decisions.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1BdNME1SbhB2NPjh1dDdRT6i-gHrKLqAs/view?usp=sharing"
+  },
+  {
+    "title": "Deep Learning Certification",
+    "organization": "Indian Institute of Technology Madras",
+    "year": "2025",
+    "description": "Fortified my knowledge in Machine and Deep Learning through this course. Learnt the advance concepts, from CNNs to LSTMs, Transformers and LLM.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1e0YnvdfljrVbXmItOHOB3Px3Simjt_Cl/view?usp=sharing"
+  },
+  {
+    "title": "Advanced C++",
+    "organization": "AICTE",
+    "year": "2025",
+    "description": "A self-paced, hands-on course covers the basics of C++ programming, including data structures, algorithms, and object-oriented programming. It is designed to help students develop a strong foundation in C++ and prepare for industry-ready code designing and debugging.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1vnKY0M5RrJOdqK971UMKYSBt5avj3ipU/view?usp=sharing"
+  },
+  {
+    "title": "Programming, Data Structures and Algorithms using Python",
+    "organization": "Chennai Mathematical Institute",
+    "year": "2025",
+    "description": "A comprehensive course on Python programming, covering data structures, algorithms, and object-oriented programming. Designed for fundamentals and logical development of pythonic programming.",
+    "icon": "Award",
+    "link": ""
+  },
+  {
+    "title": "Web Development Certification",
+    "organization": "Udemy (Hitesh Chaudhary)",
+    "year": "2024-2025",
+    "description": "An end-to-end Web Development course that covers basics concepts like HTML, CSS, JavaScript, to industry topics like React, Node.js, Express.js, MongoDB, SQL and much more. It provides a solid foundation for building modern web applications for industrial tech needs.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1LliN8lFhpoiLjTstns4KncrO_qk6eTVL/view?usp=sharing"
+  },
+  {
+    "title": "Cloud Computing Certification",
+    "organization": "IIT Kharagpur",
+    "year": "2025",
+    "description": "With latest trends in AI and Social Computing, knowledge in Cloud Computing is a critical skill to create large, data-efficient systems. This course offered covers the fundamentals of Cloud like Service Level Agreement, Key Performance Indicators, Metrics for Monitoring and Audit, and Security Concerns.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1x0QYvAiIfI8uQnjLv8MKZHIMaOZAbJ1Z/view?usp=sharing"
+  },
+  {
+    "title": "Software Engineering",
+    "organization": "IIT Kharagpur",
+    "year": "2025",
+    "description": "SDLC is a key skill for any software product development. With industries gearing up for the fifth cycle of software products, ensuring efficient product development, management, deployment and maintenance.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1f-fn2RpVZM8q5Dv76o6iToD-IiDpTiwC/view?usp=sharing"
+  },
+  {
+    "title": "Applied Accelerated Artificial Intelligence",
+    "organization": "Centre for Development of Advanced Computing",
+    "year": "2025",
+    "description": "",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1eBZUiAgISf8IM4QK_twDdja0BzqGDhlM/view?usp=sharing"
+  },
+  {
+    "title": "Programming with Generative AI",
+    "organization": "IISc Bangalore",
+    "year": "2025",
+    "description": "",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1M3mrExAqyV_BxIm8AfrkYk84e2m7m5qk/view?usp=sharing"
+  }
+]

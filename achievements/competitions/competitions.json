@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Instruo Machine Learning Hackathon (2024)",
+    "organization": "Indian Institute of Engineering Science & Technology, Shibpur",
+    "year": "2024",
+    "description": "With the power of Deep Learning & Bi-directional LSTM, I created a Spam Detection model that achieved an impressive accuracy of 98.5% on the test dataset, demonstrating exceptional performance in identifying spam messages.",
+    "icon": "Award",
+    "link": "https://drive.google.com/file/d/1UsZCDXFQWBVSl24r1Fu44n4OKlIX3s9U/view?usp=sharing"
+  },
+  {
+    "title": "Brain Dead Hackathon (2025)",
+    "organization": "Indian Institute of Engineering Science & Technology, Shibpur",
+    "year": "2025",
+    "description": "Achieved First Place in the Instruo Machine Learning Hackathon, showcasing advanced skills in LLM Fine-tuning for Text Summarisation and IPL Data Analysis with Predictions.",
+    "icon": "Trophy",
+    "link": "https://drive.google.com/file/d/1CUPVLN4n_dG_ky9MRzdSrHhjnNgt2kx2/view?usp=sharing"
+  }
+]

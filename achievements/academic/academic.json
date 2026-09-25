@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Bachelor of Technology in Computer Science",
+    "organization": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "year": "2022-2026 (Ongoing)",
+    "description": "I graduated with a Bachelor of Technology (BTech) degree in Computer Science and Engineering from IIT Kharagpur. My academic journey began with a rigorous curriculum that focused on computer science, mathematics, and engineering. I honed my problem-solving skills, critical thinking abilities, and analytical reasoning through challenging courses and projects. My passion for technology and its applications fueled my academic pursuits, and I am excited to continue exploring the world of computer science and engineering.",
+    "icon": "Award",
+    "link": ""
+  },
+  {
+    "title": "Joint Entrance Examination",
+    "organization": "JOSAA, New Delhi",
+    "year": "2022",
+    "description": "Successfully qualified the Joint Entrance Examination (JEE) with 98 percentile in JEE Mains, securing admission to the prestigious Indian Institute of Engineering Science and Technology, Shibpur.",
+    "icon": "Award",
+    "link": ""
+  },
+  {
+    "title": "Higher Secondary Education",
+    "organization": "Vivekananda Mission School, Joka",
+    "year": "2022",
+    "description": "During my higher Secondary Education I focused on my IIT-JEE Preparation. Heavily invested time in learning and enjoying the core concepts of Physics, Chemistry & Mathematics. Scored 96% in ISC Board Examination.",
+    "icon": "BookOpen",
+    "link": ""
+  },
+  {
+    "title": "Secondary Education",
+    "organization": "Vivekananda Mission School, Joka",
+    "year": "2020",
+    "description": "With a focus on Science, Mathematics & Computer Science, I completed my secondary education with a strong academic record, laying the foundation for my future studies in engineering. Scored 94% in ICSE Board Examination.",
+    "icon": "BookOpen",
+    "link": ""
+  }
+]
